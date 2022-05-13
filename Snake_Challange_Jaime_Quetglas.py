@@ -67,7 +67,7 @@ def number_of_available_different_paths(board: list, snake: list, depth: int) ->
 
 if __name__ == '__main__':
     #Please note that this is an answer to the given challange. In a real case, the inputs
-    #would probably read from an external file, from an input box... there are so many options!
+    #would probably be read from an external file, from an input box... there are so many options!
 
     # Test1
     board = [4, 3]
